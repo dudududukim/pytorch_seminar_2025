@@ -1,0 +1,142 @@
+# -------------------------
+# 시스템 및 에디터 관련 파일
+# -------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+events.out.tfevents.*
+
+# IDE/에디터 설정
+.vscode/
+.idea/
+*.code-workspace
+
+# -------------------------
+# Python/환경 관련
+# -------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# -------------------------
+# Jupyter 임시 파일
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# 빌드/캐시/임시 디렉토리
+# -------------------------
+build/
+dist/
+.cache/
+*.cache
+*.pid
+
+# -------------------------
+# 대용량/바이너리/데이터 파일
+# -------------------------
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.bz2
+*.xz
+
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.pb
+*.tflite
+*.weights
+*.npz
+*.npy
+*.joblib
+*.pkl
+
+*.exe
+*.dll
+*.bin
+*.class
+*.o
+*.a
+*.lib
+*.obj
+
+# 이미지/비디오/오디오(필요시만 추적)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.bmp
+*.tiff
+*.ico
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.mp3
+*.wav
+*.flac
+
+# -------------------------
+# 민감 정보/보안 파일
+# -------------------------
+*.key
+*.pem
+*.crt
+*.csr
+*.p12
+*.pfx
+*.asc
+
+*.env
+.env.*
+secrets.*
+secret.*
+*.token
+*.credentials
+*.config
+config.*
+settings.*
+*.sqlite3
+*.db
+*.db3
+*.sqlite
+
+# -------------------------
+# 기타 (노트, 백업 등)
+# -------------------------
+*.old
+*.orig
+*.backup
+*.bak
+*.tmp
+
+# -------------------------
+# 예외: 실제로 추적할 파일 확장자
+# (필요시 아래처럼 추가)
+# !*.ipynb
+# !*.py
+# !*.pdf
+# !*.md
+# !*.tex
+# !*.pptx
+!*.jpg
+!*.gif
+!*.png
