@@ -3,7 +3,7 @@
 ## 개요
 이 세미나는 PyTorch를 활용한 딥러닝 실전 코딩 역량을 기르기 위해 기획되었습니다. 참가자는 Python 및 PyTorch의 기본 문법부터 실제 연구·산업에서 사용하는 코드 구조, 대표적인 이미지 분류/생성 문제, 그리고 Neural Style Transfer 등 최신 응용까지 단계적으로 학습합니다.
 
-[Videos](https://www.youtube.com/playlist?list=PLTu7jeAG10w4QBVgrQa5ftFBEAhnbFRHz)
+강의 영상 : [PyTorch Seminar 2025](https://www.youtube.com/playlist?list=PLTu7jeAG10w4QBVgrQa5ftFBEAhnbFRHz)
 
 ---
 
